@@ -1,0 +1,21 @@
+.nagykep {
+    width: 70%;
+    border-radius: 10px;
+    border: 1px solid gray;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+}
+
+.nagykep img{
+    width: 100%;
+}
+
+.nagykep button {
+    flex: 0 0 20px;
+}
+
+button{
+    border: 1px groove darkcyan;
+    border-radius: 5px;
+}
