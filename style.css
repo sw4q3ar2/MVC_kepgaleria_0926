@@ -19,3 +19,9 @@ button{
     border: 1px groove darkcyan;
     border-radius: 5px;
 }
+
+.kisIMG{
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+}
